@@ -144,7 +144,7 @@ git clone https://github.com/noxrepo/pox.git
 
 ```bash
 git clone https://github.com/Umer-Fazal/SDN-Load-Balancer.git
-cd sdn-load-balancer
+cd SDN-Load-Balancer
 ```
 
 ### Step 4 — Copy Files into POX
