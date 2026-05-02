@@ -143,7 +143,7 @@ git clone https://github.com/noxrepo/pox.git
 ### Step 3 — Clone This Repository
 
 ```bash
-git clone https://github.com/yourusername/sdn-load-balancer.git
+git clone https://github.com/Umer-Fazal/SDN-Load-Balancer.git
 cd sdn-load-balancer
 ```
 
