@@ -352,18 +352,11 @@ FLOW_MEMORY_TIMEOUT = 60*5  # seconds — controller memory entry expires after 
   <tr>
     <td align="center">
       <b>Muhammad Umer Fazal</b><br/>
-      <sub>22K-4726</sub>
-    </td>
-    <td align="center">
-      <b>Abdul Rafay</b><br/>
-      <sub>22K-4046</sub>
     </td>
   </tr>
 </table>
 
 **Course:** CS 3001 — Computer Networks
-**Instructor:** Dr. Aqsa Aslam
-**Section:** BAI-8A
 **University:** National University of Computer & Emerging Sciences (FAST-NUCES)
 
 ---
